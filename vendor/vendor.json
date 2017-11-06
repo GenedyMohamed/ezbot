@@ -37,6 +37,12 @@
 			"path": "golang.org/x/net/html/atom",
 			"revision": "01c190206fbdffa42f334f4b2bf2220f50e64920",
 			"revisionTime": "2017-11-02T18:53:09Z"
+		},
+		{
+			"checksumSHA1": "barUU39reQ7LdgYLA323hQ/UGy4=",
+			"path": "golang.org/x/net/html/charset",
+			"revision": "01c190206fbdffa42f334f4b2bf2220f50e64920",
+			"revisionTime": "2017-11-02T18:53:09Z"
 		}
 	],
 	"rootPath": "/github.com/ramin0/chatbot-sample"
